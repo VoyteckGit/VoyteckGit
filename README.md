@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @VoyteckGit
-- 📖 I’m currently learning Python and C
-- 📫 My e-mail: voyteck@national.shitposting.agency
-- 🦣 My mastodon: [@Voyte_ck@mstdn.social](https://mstdn.social/@Voyte_ck)
+Silly goober, I use GitLab most of the time
